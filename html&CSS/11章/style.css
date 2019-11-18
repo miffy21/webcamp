@@ -151,6 +151,7 @@ header {
 	margin-right: 10px;
 	margin-bottom: 90px;
 }
+.clearfi
 .strendth1 {
 	font-size: 20px;
 	color: #000000;
@@ -168,7 +169,7 @@ header {
 	background-color: #ECEFF1;
 }
 .profile {
-	width: 1034px;
+	width: 1024px;
 	margin: 0 auto;
 }
 .photo-box {
@@ -204,3 +205,207 @@ header {
 	font-size: 20px;
 	padding-top: 20px;
 }
+.contact-box {
+	width: 800px;
+	margin: 0 auto;
+	margin-bottom: 90px;
+}
+.mail-box {
+	width: 400px;
+	float: left;
+	text-align: center;
+}
+.mail-box2 {
+	display: inline-block;
+	margin:0 auto;
+	text-align: left;
+}
+.contact-main-text {
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+.tell-main-text {
+	font-size: 20px;
+	margin-top: 20px;
+}
+.content-text {
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+.social i{
+	font-size: 50px;
+}
+.social i:nth-child(even) {
+	margin-right: 20px;
+	margin-left: 20px;
+}
+footer {
+	height: 60px;
+	line-height: 60px;
+	color: #FAFAFA;
+	font-size: 16px;
+	text-align: center;
+	background-color: #EC715F;
+}
+
+
+
+@media screen and (max-width: 767px) {
+header {
+	width: 90%;
+	margin-right: 5%;
+	margin-left: 5%;
+}
+.nav {
+	display: none;
+}
+.main {
+	height: 650px;
+	width: 90%;
+	background-image: url(img/code.png);
+	margin-right: 5%;
+	margin-left: 5%;
+}
+.main-visual {
+	font-size: 40px;
+	color: #FAFAFA;
+	text-align: center;
+	padding-top: 200px;
+}
+.main-text {
+	font-size: 18px;
+	color: #FAFAFA;
+	text-align: center;
+	padding-top: 10px;
+}
+.portfolio-box{
+	width: 90%;
+	margin-right: 5%;
+	margin-left: 5%;
+	height:1100px;
+}
+.portfolio {
+	width: 90%;
+	margin-right: 5%;
+	margin-left: 5%;
+}
+.box1 {
+   display: none;
+}
+.box2 {
+	float: none;
+	margin:0 auto;
+	width: 300px;
+	height: 250px
+	margin-top:30px;
+}
+.box3 {
+	display: none;
+}
+.box4 {
+	width: 300px;
+	height: 250px;
+	float: none;
+	margin:0 auto;
+	margin-top: 10px;
+}
+.box5 {
+	display: none;
+}
+.box6 {
+	float: none;
+	width: 300px;
+	height: 250px;
+	margin:0 auto;
+	margin-bottom: 90px;
+	margin-top: 10px;
+
+}
+.feature {
+	width: 90%;
+	margin-right: 5%;
+	margin-left: 5%;
+}
+.box7 {
+	float: none;
+	margin:0 auto;
+}
+.feature-box {
+	width: 90%;
+	margin-right: 5%;
+	margin-left: 5%;
+}
+.profile-box{
+    width: 90%;
+	margin-right: 5%;
+	margin-left: 5%;
+}
+.profile {
+	width: 90%;
+	margin-right: 5%;
+	margin-left: 5%;
+}
+.photo-box {
+width: auto;
+margin: 0 auto;
+float: none;
+}
+.photo {
+	width: 250px;
+	height: 250px;
+	background-image: url(img/my-icon.jpg);
+	background-size: cover;
+	background-position: center;
+	border-radius: 125px;
+	margin: 0 auto;
+}
+.profile-box2 {
+	width: 90%;
+	float: none;
+	margin:0 auto;
+}
+.myneme {
+width: auto;
+}
+.text1 {
+	font-size: 16px;
+	color: #000000;
+	margin-top: 5px;
+}
+.myskills {
+	font-size: 20px;
+	padding-top: 20px;
+}
+.contact-box {
+	width: 90%;
+	margin-right: 5%;
+	margin-left: 5%;
+}
+.mail-box {
+	width: 400px;
+	float: left;
+	text-align: center;
+}
+.mail-box2 {
+	display: inline-block;
+	margin:0 auto;
+	text-align: left;
+}
+.contact-main-text {
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+.tell-main-text {
+	font-size: 20px;
+	margin-top: 20px;
+}
+.content-text {
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+.social i{
+	font-size: 50px;
+}
+.social i:nth-child(even) {
+	margin-right: 20px;
+	margin-left: 20px;
